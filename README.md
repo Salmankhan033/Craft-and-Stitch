@@ -1,5 +1,6 @@
 # Craft-and-Stitch
-***Handicrafts app for multi-vendor and multi-users***
+***Handicrafts app for multi-vendor and multi-users.***
+
 The system is based on React Native application. The main aim of the project is to provide means for the people who are unable to earn livelihood for their self & family and are very skilful and talented. This application is best for females as they are more interested in knitting items in winters, this will provide them with a large number of different items with different colours and designs. Along with females this application is also best source of income for prisoners who are left at the mercy of no one but the uncaring jail authorities, with the help of this app they can utilize their skill and earn money, so in future they may not involve in any crime activities once they taste the flavour of business. So, we are providing such platform (online market) especially for prisoners to show-case and sale their hand-made items.  
 Craft and stitch application will be designed from a user point of view. The user-friendly design will help the users in accomplishing their task with ease. We will focus on to keep the design simple and understandable. 
 
